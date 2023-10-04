@@ -67,7 +67,7 @@
                     </div>
                 </div>
                 <div class="bg-gray-100 rounded-lg col-span-2">
-                    <img src="{{ asset('img/home/fotoicalma2.png') }}" alt="Imagen 2" class="w-full h-auto">
+                    <img src="{{ asset('img/home/fotoicalma2c.png') }}" alt="Imagen 2" class="w-full h-auto">
                 </div>
               
             </div>

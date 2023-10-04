@@ -720,14 +720,14 @@
      
 
     <div class="hidden md:block mx-auto max-w-7xl">
-        <div class="flex items-center justify-cender" style="background-image: url('{{ asset('img/home/fotoicalma.png') }}'); background-size: 100% auto; background-position: center; height: 450px;">
+        <div class="flex items-center justify-cender" style="background-image: url('{{ asset('img/home/fotoicalmac.png') }}'); background-size: 100% auto; background-position: center; height: 450px;">
 
         </div>
     </div>
 
     <div class="block md:hidden grid grid-cols-1 gap-4">
         <div class="bg-gray-100 rounded-lg">
-            <img src="{{ asset('img/home/fotoicalma8.png') }}" alt="Imagen 1" class="w-full">
+            <img src="{{ asset('img/home/fotoicalma8c.png') }}" alt="Imagen 1" class="w-full">
         </div>
     </div>
        
@@ -754,11 +754,7 @@
             </div>
  
         
-            <div class="hidden grid grid-cols-1 gap-4">
-                <div class="bg-gray-100 rounded-lg">
-                    <img src="{{ asset('img/home/fotoicalma2.png') }}" alt="Imagen 1" class="w-full h-auto">
-                </div>
-            </div>
+        
 
             <div class="container mx-auto p-8">
                 <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
@@ -776,7 +772,7 @@
                         </div>
                     </div>
                     <div class="bg-gray-100 rounded-lg col-span-2">
-                        <img src="{{ asset('img/home/fotoicalma2.png') }}" alt="Imagen 2" class="w-full h-auto">
+                        <img src="{{ asset('img/home/fotoicalma2c.png') }}" alt="Imagen 2" class="w-full h-auto">
                     </div>
                   
                 </div>
@@ -808,7 +804,7 @@
                 <p>Valor 1° preventa de inscripciones: $50.000 → Desde el 1 de octubre hasta el 20 de octubre.</p>
                 <p>Valor 2° preventa de inscripciones: $58.000 → Desde el 21 de octubre hasta el 10 de noviembre.</p>
                 <p>Venta final: $65.000 → Desde el 11 de noviembre hasta el 20 de noviembre.</p>
-                <p>Inscripciones a través de <a href="http://megaavalancheicalma.test/checkout/desafio-la-serena" class="text-blue-500">megavalancheicalma.cl</a></p>
+                <p>Inscripciones a través de <a href="https://megaavalancheicalma.cl/checkout/megaavalanche-icalma-2023" class="text-blue-500">megavalancheicalma.cl</a></p>
                 <p>Derechos de inscripción:</p>
                 <ul>
                     <li>Número y Chip electrónico.</li>

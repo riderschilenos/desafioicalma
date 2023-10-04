@@ -150,7 +150,7 @@
 
                         @endforeach  
 
-                        <a href="http://megaavalancheicalma.test/checkout/desafio-la-serena" class="btn btn-danger h-10 my-auto">INSCRIPCIONES</a>
+                        <a href="https://megaavalancheicalma.cl/checkout/megaavalanche-icalma-2023" class="btn btn-danger h-10 my-auto">INSCRIPCIONES</a>
                     
 
                     </div>

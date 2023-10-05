@@ -733,14 +733,14 @@
     <div class="flex sm:hidden mx-auto  justify-center mt-4">
                                             
         <a href="https://megaavalancheicalma.cl/checkout/megaavalanche-icalma-2023">
-            <button class="btn max-w-sm btn-block bg-red-600 shadow h-10 px-4 rounded-lg text-white mr-4 mb-2" >
+            <button class="btn max-w-sm btn-block bg-red-600 shadow h-10 px-4 rounded-lg text-white mr-4 " >
             
                 Inscripciones
 
             </button>
         </a>
     </div>
-    <header class="bg-gray-900 mt-10 mb-6 py-4 text-white text-center">
+    <header class="bg-gray-900 mt-4 mb-6 py-4 text-white text-center">
         <h1 class="text-2xl md:text-4xl font-semibold">MEGA AVALANCHE ICALMA</h1>
         <p class="text-xl">10 de diciembre de 2023 en Batea Mahuida, Icalma</p>
     </header>

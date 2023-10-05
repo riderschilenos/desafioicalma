@@ -69,7 +69,7 @@
         <div class="card-body">
             <article class="grid grid-cols-1 md:grid-cols-2 items-center">
                 <div class="flex">
-                    <img class="h-28 w-24 object-contain" src="{{Storage::url($ticket->evento->image->url)}}" alt="">
+                    <img class="h-28 w-24 object-contain" src="https://megaavalancheicalma.cl/img/logo.png" alt="">
                     <div class="ml-2 mt-5">
                         <h1 class="text-lg ml-2">{{$ticket->evento->titulo}}</h1>
                         <h2 class="text-md ml-2 mb-3">{{$ticket->evento->subtitulo}}</h2>

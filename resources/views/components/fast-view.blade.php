@@ -730,6 +730,9 @@
             <img src="{{ asset('img/home/fotoicalma8c.png') }}" alt="Imagen 1" class="w-full">
         </div>
     </div>
+    <div class="p-2 md:hidden">
+        <iframe width="100%" height="450px" src="https://www.youtube.com/embed/hNvh1yorQiU?si=Avfzhm9snNGOavuD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    </div> 
     <div class="flex sm:hidden mx-auto  justify-center mt-4">
                                             
         <a href="https://megaavalancheicalma.cl/checkout/megaavalanche-icalma-2023">

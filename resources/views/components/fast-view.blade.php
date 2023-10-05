@@ -733,7 +733,7 @@
     <div class="p-2 md:hidden">
         <iframe width="100%" height="350px" src="https://www.youtube.com/embed/hNvh1yorQiU?si=Avfzhm9snNGOavuD&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     </div> 
-    <div class="flex sm:hidden mx-auto  justify-center mt-4">
+    <div class="flex sm:hidden mx-auto  justify-center mt-2">
                                             
         <a href="https://megaavalancheicalma.cl/checkout/megaavalanche-icalma-2023">
             <button class="btn max-w-sm btn-block bg-red-600 shadow h-10 px-4 rounded-lg text-white mr-4 " >

@@ -54,7 +54,7 @@ class TicketInscripcion extends Component
 
     public function set_categoria($id){
         $this->fechacategoria=Fecha_categoria::find($id);
-
+        $this->nro='S';
         $this->categoria_id = $this->fechacategoria->categoria_id;
     }
 

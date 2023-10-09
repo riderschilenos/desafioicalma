@@ -101,9 +101,19 @@
                                     
                             @else
                             
-                                    <p class="">Número de Moto: </p>
+                                    <p class="">Talla de Polera: </p>
+                                    <select wire:model="nro" class="block appearance-none w-full border border-gray-200 text-gray-700 py-3 px-4 pr-8 rounded leading-tight  focus:bg-white focus:border-gray-500">
+                                        <option value="S">S</option>
+            
+                                            <option value="M">M</option>
+                                            <option value="L">L</option>
+                                            <option value="XL">XL</option>
+                                            <option value="xXL">XxL</option>
+                      
+                                    </select>
+                                    {{-- 
                                     <input wire:model="nro" type="number" class="w-24 border-2 border-gray-300 bg-white h-10 px-5 text-gray-900 rounded-lg">
-                                    
+                                    comment --}}
                                     <div class="text-white  text-md font-bold px-4" wire:loading wire:target="nro">
                                         <img class="h-5" src="{{asset('img/cargando.gif')}}" alt="">
                                     </div>

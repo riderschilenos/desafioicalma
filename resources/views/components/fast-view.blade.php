@@ -852,7 +852,7 @@
             </ul>
         </div>
     
-        <div class="grid grid-cols-3 md:hidden justify-center">
+        <div class="grid grid-cols-6 md:hidden justify-center">
             <div class="p-2">
                 <img src="{{ asset('img/home/logos/logo1.png') }}" alt="Auspiciador 1" class="">
             </div>
@@ -871,7 +871,7 @@
             <div class="p-2">
                 <img src="{{ asset('img/home/logos/logo6.png') }}" alt="Auspiciador 2" class="">
             </div>
-            <div class="p-2 col-span-3">
+            <div class="p-2 col-span-2">
                 <img src="{{ asset('img/home/logos/logo9.png') }}" alt="Auspiciador 2" class="">
             </div>
             <!-- Repite este patrón para los otros auspiciadores -->

@@ -874,6 +874,10 @@
             <div class="p-2 col-span-2">
                 <img src="{{ asset('img/home/logos/logo9.png') }}" alt="Auspiciador 2" class="">
             </div>
+            <div class="p-2">
+                <img src="{{ asset('img/home/logos/logo10.png') }}" alt="Auspiciador 2" class="">
+            </div>
+          
             <!-- Repite este patrón para los otros auspiciadores -->
         </div>
         <div class="hidden md:grid grid-cols-6 justify-center">
@@ -895,9 +899,10 @@
             <div class="p-2">
                 <img src="{{ asset('img/home/logos/logo6.png') }}" alt="Auspiciador 2" class="">
             </div>
-            <div class="p-2 col-span-2">
-
+            <div class="p-2">
+                <img src="{{ asset('img/home/logos/logo10.png') }}" alt="Auspiciador 2" class="">
             </div>
+       
             <div class="p-2 col-span-2">
                 <img src="{{ asset('img/home/logos/logo9.png') }}" alt="Auspiciador 2" class="">
             </div>

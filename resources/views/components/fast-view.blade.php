@@ -877,6 +877,12 @@
             <div class="p-2">
                 <img src="{{ asset('img/home/logos/logo10.png') }}" alt="Auspiciador 2" class="">
             </div>
+            <div class="p-2">
+                <img src="{{ asset('img/home/logos/logo12.png') }}" alt="Auspiciador 2" class="">
+            </div>
+            <div class="p-2">
+                <img src="{{ asset('img/home/logos/logo13.png') }}" alt="Auspiciador 2" class="">
+            </div>
           
             <!-- Repite este patrón para los otros auspiciadores -->
         </div>
@@ -905,6 +911,11 @@
        
             <div class="p-2 col-span-2">
                 <img src="{{ asset('img/home/logos/logo9.png') }}" alt="Auspiciador 2" class="">
+            </div>
+            <div class="p-2">
+                <img src="{{ asset('img/home/logos/logo12.png') }}" alt="Auspiciador 2" class="">
+            </div> <div class="p-2">
+                <img src="{{ asset('img/home/logos/logo13.png') }}" alt="Auspiciador 2" class="">
             </div>
           
             <!-- Repite este patrón para los otros auspiciadores -->

@@ -30,13 +30,13 @@
                 </form>
             --}}
                 <button wire:click="set_categoria({{$item->id}})" class="btn btn-danger text-white mx-2 text-md my-2">
-                    {{$item->categoria->name}}-${{number_format($item->inscripcion)}}
+                    {{$item->categoria->name}} ${{number_format($item->inscripcion)}}
                 </button>
                 
             @endforeach
         @else
             <button wire:click="categoria_clean" class="btn btn-danger text-white mx-2 text-md my-4">
-                {{$fechacategoria->categoria->name}}-${{number_format($fechacategoria->inscripcion)}}
+                {{$fechacategoria->categoria->name}} ${{number_format($fechacategoria->inscripcion)}}
             </button>
         @endif
       
@@ -53,7 +53,7 @@
                     @endif
                     @foreach ($fecha->categorias as $item)
 
-                        <option value="{{$item->id}}">{{$item->categoria->name}}-${{number_format($item->inscripcion)}}</option>
+                        <option value="{{$item->id}}">{{$item->categoria->name}} ${{number_format($item->inscripcion)}}</option>
                         
                     @endforeach
                 </select>

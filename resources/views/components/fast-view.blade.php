@@ -860,7 +860,7 @@
                 <img src="{{ asset('img/home/logos/logo2.png') }}" alt="Auspiciador 2" class="">
             </div>
             <div class="p-2">
-                <img src="{{ asset('img/home/logos/logo3.png') }}" alt="Auspiciador 2" class="">
+                <img src="{{ asset('img/home/logos/logo11.png') }}" alt="Auspiciador 2" class="">
             </div>
             <div class="p-2">
                 <img src="{{ asset('img/home/logos/logo4.png') }}" alt="Auspiciador 2" class="">
@@ -888,7 +888,7 @@
                 <img src="{{ asset('img/home/logos/logo2.png') }}" alt="Auspiciador 2" class="">
             </div>
             <div class="p-2">
-                <img src="{{ asset('img/home/logos/logo3.png') }}" alt="Auspiciador 2" class="">
+                <img src="{{ asset('img/home/logos/logo11.png') }}" alt="Auspiciador 2" class="">
             </div>
             <div class="p-2">
                 <img src="{{ asset('img/home/logos/logo4.png') }}" alt="Auspiciador 2" class="">

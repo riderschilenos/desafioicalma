@@ -410,7 +410,7 @@
 
                                         {!! Form::hidden('pedidoable_type','App\Models\Socio') !!}
                                         
-                                        @if (!IS_NULL($socio))
+                                        @if ($socio)
                                             {!! Form::hidden('pedidoable_id',$socio->id) !!}
                                         @endif
                             

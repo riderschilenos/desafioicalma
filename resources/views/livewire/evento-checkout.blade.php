@@ -410,8 +410,14 @@
 
                                         {!! Form::hidden('pedidoable_type','App\Models\Socio') !!}
                                         
-                                        @if ($socio)
-                                            {!! Form::hidden('pedidoable_id',$socio->id) !!}
+                                        @if ($invitado)
+
+                                            {!! Form::hidden('ticketable_type','App\Models\Invitado') !!}
+                                            {!! Form::hidden('ticketable_id',$invitado->id) !!}
+
+                                        @else
+                                            {!! Form::hidden('ticketable_type','App\Models\Socio') !!}
+                                            {!! Form::hidden('ticketable_id',$socio->id) !!}
                                         @endif
                             
                                         @if (!IS_NULL($socio))

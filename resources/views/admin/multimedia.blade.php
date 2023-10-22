@@ -24,7 +24,7 @@
                             <img src="{{ asset('img/home/logos/foto2.png') }}" alt="Auspiciador 2" class="">
                         </div>
                         <div class="p-2">
-                            <img src="{{ asset('img/home/logos/foto3.png') }}" alt="Auspiciador 2" class="">
+                            <img src="{{ asset('img/home/logos/foto11.png') }}" alt="Auspiciador 2" class="">
                         </div>
                         <div class="p-2">
                             <img src="{{ asset('img/home/logos/foto4.png') }}" alt="Auspiciador 2" class="">
@@ -49,7 +49,7 @@
                             <img src="{{ asset('img/home/logos/foto2.png') }}" alt="Auspiciador 2" class="">
                         </div>
                         <div class="p-2">
-                            <img src="{{ asset('img/home/logos/foto3.png') }}" alt="Auspiciador 2" class="">
+                            <img src="{{ asset('img/home/logos/foto11.png') }}" alt="Auspiciador 2" class="">
                         </div>
                         <div class="p-2">
                             <img src="{{ asset('img/home/logos/foto4.png') }}" alt="Auspiciador 2" class="">

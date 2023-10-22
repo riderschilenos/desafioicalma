@@ -745,7 +745,7 @@
     </div>
     <header class="bg-gray-900 mt-4 mb-6 py-4 text-white text-center">
         <h1 class="text-2xl md:text-4xl font-semibold">MEGA AVALANCHE ICALMA</h1>
-        <p class="text-xl">10 de diciembre de 2023 en Batea Mahuida, Icalma</p>
+        <p class="text-xl">26 de noviembre de 2023 en Batea Mahuida, Icalma</p>
     </header>
     
     <div class="container mx-auto p-8 bg-white shadow-lg rounded-lg pt-2">
@@ -753,12 +753,12 @@
             <h2 class="text-2xl font-semibold mb-4 text-center mt-4 ">Cronograma de Competencia</h2>
             <div class="grid grid-cols-2 gap-4 mb-6">
                 <div class="bg-gray-100 rounded-lg">
-                    <h3 class="text-xl p-4 font-semibold mb-2 text-center bg-gray-500 text-white rounded-lg">9 de diciembre</h3>
+                    <h3 class="text-xl p-4 font-semibold mb-2 text-center bg-gray-500 text-white rounded-lg">25 de noviembre</h3>
                     <p class="px-4 py-2">Entrega de kit de competencia en Camping Centro de operaciones Icalma de 15:00 a 19:00 hrs.</p>
                 </div>
 
                 <div class="bg-gray-100 rounded-lg">
-                    <h3 class="text-xl p-4 font-semibold mb-2 text-center bg-gray-500 text-white rounded-lg">10 de diciembre</h3>
+                    <h3 class="text-xl p-4 font-semibold mb-2 text-center bg-gray-500 text-white rounded-lg">26 de noviembre</h3>
                     <p class="px-4 py-2">Inicio de competencia a las 10:00 hrs.</p>
                     <p class="px-4 py-2">Largada oficial de competencia a las 11:00 hrs. desde Batea Mahuida.</p>
                     <p class="px-4 py-2">Premiación a las 13:30 hrs. Aproximadamente.</p>
@@ -772,7 +772,7 @@
                 <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
                     <div class="bg-gray-900 text-white rounded-lg text-center p-6">
                         <h2 class="text-2xl font-semibold">Descripción</h2>
-                        <p>Tenemos el agrado de invitar a ENDURO MEGA AVALANCHE ICALMA – BATEA MAHUIDA CHILE, a realizarse el 10 de diciembre, evento internacional en el espectacular escenario de Batea Mahuida Icalma – IX región.</p>
+                        <p>Tenemos el agrado de invitar a ENDURO MEGA AVALANCHE ICALMA – BATEA MAHUIDA CHILE, a realizarse el 26 de noviembre, evento internacional en el espectacular escenario de Batea Mahuida Icalma – IX región.</p>
                         <p class="mb-8">"Vive una experiencia inolvidable para todo raiders."</p>
                         <div class="grid grid-cols-2 justify-center">
                             <div class="p-2">
@@ -799,7 +799,7 @@
                 <p>La logística y organización de este evento incluye un camp a disposición de los competidores en ambos días, para retiro de kit y fiesta raiders. El lugar estará habilitado con baños, foodtruck, cervecería, mecánica neutral, zona de competidores, estacionamiento y largada-meta.</p>
     
                 <h2 class="text-2xl font-semibold mt-4">Fecha y Lugar</h2>
-                <p>10 de diciembre de 2023 en Batea Mahuida, Icalma.</p>
+                <p>26 de noviembre de 2023 en Batea Mahuida, Icalma.</p>
     
                 <h2 class="text-2xl font-semibold mt-4">Distancia</h2>
                 <p>Descenso de 6 K</p>
@@ -834,11 +834,11 @@
         <!-- Cronograma y seguridad -->
         <div class="container mx-auto p-8">
             <h2 class="text-2xl font-semibold mt-4">Cronograma</h2>
-            <p><strong>Sábado 09 de diciembre del 2023:</strong></p>
+            <p><strong>Sábado 25 de noviembre del 2023:</strong></p>
             <ul>
                 <li>Entrega de kit de competencia en Camping Centro de operaciones Icalma de 15:00 a 19:00 hrs.</li>
             </ul>
-            <p><strong>Domingo 10 de diciembre del 2023:</strong></p>
+            <p><strong>Domingo 26 de noviembre del 2023:</strong></p>
             <ul>
                 <li>Inicio de competencia a las 10:00 hrs.</li>
                 <li>Largada oficial de competencia a las 11:00 hrs. desde Batea Mahuida.</li>

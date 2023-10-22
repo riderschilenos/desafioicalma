@@ -173,22 +173,19 @@
                                         <a href="{{route('socio.show', $socio)}}">
                                             <h1 class="text-blue-400 font-bold text-lg leading-8 mb-1">{{ '@'.$socio->slug }}</h1>
                                         </a>  
-                                        <div class="flex content-center">
-                                            <div class="px-2 py-2 text-red-500 font-semibold content-center">
-                                                <i class="fas fa-birthday-cake content-arount" aria-hidden="true"></i>
-                                            </div>
-                                            <div class="px-2 py-2 text-sm">{{date('d-m-Y', strtotime($socio->born_date))}}</div>
-                                        </div>
+                                        <div class="bg-gray-100 text-gray-600 hover:text-gray-700 hover:shadow py-2 px-3 mt-3 divide-y rounded shadow-sm">
                                     
-                                        <div class="flex items-center content-center">
-                                                    @if($socio->direccion)
-                                                        <div class="px-2 py-2 text-red-500 font-semibold content-center">
-                                                        <i class="fa fa-map-marker my-auto py-auto" aria-hidden="true"></i>
-                                                    </div>
-                                                    
-                                                        <div class="px-2 py-2">{{Str::limit($socio->direccion->comuna.', '.$socio->direccion->region,20)}}</div>
-                                                    @endif
-                                        </div>
+                                            <h3 class="text-gray-600 text-sm text-semibold text-center">Recuento al {{$now->format('d-m-Y')}}</h3>
+                                            <div class="flex justify-center mt-2">
+                                                <h1 class="text-center font-bold text-4xl">
+                                                    {{number_format($total*0.01+100,0)}}
+                                                </h1>
+                                                <h1 class="text-sm items-center my-auto ml-2">
+                                                    Ptos
+                                                </h1>
+                                            </div>
+                                        
+                                        </div>  
 
                                       
                                     
@@ -202,19 +199,7 @@
 
                                    
                                 
-                                <div class="bg-gray-100 text-gray-600 hover:text-gray-700 hover:shadow py-2 px-3 mt-3 divide-y rounded shadow-sm">
-                                    
-                                        <h3 class="text-gray-600 text-sm text-semibold text-center">Recuento al {{$now->format('d-m-Y')}}</h3>
-                                        <div class="flex justify-center mt-2">
-                                            <h1 class="text-center font-bold text-4xl">
-                                                {{number_format($total*0.01+100,0)}}
-                                            </h1>
-                                            <h1 class="text-sm items-center my-auto ml-2">
-                                                Ptos
-                                            </h1>
-                                        </div>
-                                    
-                                </div>                            
+                                                        
                                     <ul class="hidden bg-gray-100 text-gray-600 hover:text-gray-700 hover:shadow py-2 px-3 mt-3 divide-y rounded shadow-sm">
                                         <li class="flex items-center py-3">
                                             <span>Suscripción</span>

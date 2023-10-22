@@ -727,7 +727,7 @@
 
     <div class="block md:hidden grid grid-cols-1 gap-4">
         <div class="bg-gray-100 rounded-lg">
-            <img src="{{ asset('img/home/fotoicalma8ch.png') }}" alt="Imagen 1" class="w-full">
+            <img src="{{ asset('img/home/fotoicalma8chh.png') }}" alt="Imagen 1" class="w-full">
         </div>
     </div>
     <div class="p-2 md:hidden">

@@ -731,7 +731,7 @@
         </div>
     </div>
     <div class="p-2 md:hidden">
-        <iframe width="100%" height="350px" src="https://youtube.com/shorts/3kcYmUUIV0Q?si=kQR57GnVOe_hT9a3&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        <iframe width="100%" height="350px" src="https://www.youtube.com/embed/3kcYmUUIV0Q?si=LLsY5Caz-d21grlK&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     </div> 
     <div class="flex sm:hidden mx-auto  justify-center mt-2">
                                             

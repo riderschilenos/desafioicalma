@@ -14,10 +14,6 @@ Route::post('{vehiculo}/activarqr', [VehiculoController::class,'activarqr'])->mi
 
 Route::redirect('', 'garage/usados');
 
-Route::get('usados', [VehiculoController::class,'index'])->name('usados');
-
-Route::get('vehiculo/vender', [VehiculoController::class,'vender'])->middleware('auth')->name('vehiculo.vender');
-
 Route::get('{vehiculo}/fotos', [VehiculoController::class,'imageupload'])->name('image');
 
 Route::get('{vehiculo}/edit', [VehiculoController::class,'edit'])->name('edit');
@@ -38,11 +34,6 @@ Route::put('{vehiculo}/precio', [VehiculoController::class,'precio'])->name('pre
 
 Route::get('misvehiculos', [VehiculoController::class,'personalindex'])->middleware('auth')->name('vehiculos.index');
 
-
-Route::get('database', [VehiculoController::class,'registerindex'])->name('vehiculos.registerindex');
-
-
-Route::get('{vehiculo}/show', [VehiculoController::class,'show'])->name('vehiculo.show');
 
 Route::get('{id}', [VehiculoController::class,'qrlink'])->name('qr.show');
 

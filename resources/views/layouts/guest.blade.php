@@ -21,14 +21,7 @@
         <!-- Styles -->
         <link rel="stylesheet" href="{{ mix('css/app.css') }}">
         <!-- Google tag (gtag.js) -->
-        <script async src="https://www.googletagmanager.com/gtag/js?id=G-92Q72DQR36"></script>
-        <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
-
-        gtag('config', 'G-92Q72DQR36');
-        </script>
+       
         <!-- Scripts -->
         <script src="{{ mix('js/app.js') }}" defer></script>
     </head>
